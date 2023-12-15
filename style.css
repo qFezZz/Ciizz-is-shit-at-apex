@@ -1,0 +1,18 @@
+body{
+    background-color: #000000;
+    padding: 0px;
+    margin-top: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+div{
+    color: rgb(255, 255, 255);
+    width: 50%;
+    margin: 25%;
+}
+
+.fish-meme-photo{
+    width: 100%;
+    border: 5px solid rgb(255, 255, 255);
+}
